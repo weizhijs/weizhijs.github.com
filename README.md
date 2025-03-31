@@ -1,6 +1,6 @@
 <!--<h4 id="language" style="text-align: left;"><strong>Language: 简体中文</strong>,  <a href="https://weizhijs.github.io/en/m.html"><u>切换至英语</u>(switch to English)</a></h4>-->
 
-<h2 id="西瓜视频-搜索-迪粉未知解说点个关注吧感谢支持抖音同名视频mod制作不易有能力就请支持一下吧万分感谢httpsafdiannetweizhijs">西瓜视频 搜索 迪粉未知解说，点个关注吧，感谢支持！抖音同名。视频、mod制作不易，有能力就请支持一下，万分感谢！<a href="https://afdian.net/a/weizhijs" target="_blank"><u>https://afdian.net/a/weizhijs</u></a></h2>
+<h2 id="西瓜视频-搜索-迪粉未知解说点个关注吧感谢支持抖音同名视频mod制作不易有能力就请支持一下吧万分感谢httpsafdiannetweizhijs">西瓜视频 搜索 迪粉未知解说，点个关注吧，感谢支持！抖音同名。视频、mod制作不易，有能力就请支持一下，万分感谢！<a href="https://afdian.com/a/weizhijs" target="_blank"><u>https://afdian.com/a/weizhijs</u></a></h2>
 <h2 id="若有bug等问题或建议请发送邮件至2821907910qqcom">若有bug等问题或建议，请发送邮件至2821907910@qq.com</h2>
 
 <h2 id="mc基岩版自制mod下载以下为每个项目的单独链接后续我也会把mod文件上传到github作为备份未经允许禁止转载">mc基岩版自制mod下载：<br />以下为每个项目的单独链接，后续我也会把mod文件上传到github作为备份！未经允许禁止转载！！！</h2>
@@ -41,7 +41,7 @@
 </ul>
 
 <p><strong>感谢支持！</strong><br />
-捐赠：<a href="https://afdian.net/a/weizhijs" target="_blank"><u>https://afdian.net/a/weizhijs</u></a></p>
+捐赠：<a href="https://afdian.com/a/weizhijs" target="_blank"><u>https://afdian.com/a/weizhijs</u></a></p>
 
 <p>注：该链接已废弃 <del>https://wzjs.lanzouq.com/b00tallbi</del></p>
 
